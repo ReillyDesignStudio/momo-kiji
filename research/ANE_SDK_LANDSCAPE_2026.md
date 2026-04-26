@@ -254,7 +254,7 @@ File → model.mlmodel → Open In
 
 ## Part 2: Community/Reverse-Engineered Access
 
-### 2.1 Orion: Latest Research (ArXiv 2603.06728)
+### 2.1 Orion: Latest Research (https://arxiv.org/pdf/2603.06728)
 
 **What:** Academic paper detailing ANE architecture and compiler  
 **When:** Published March 5, 2026 (2 weeks old) ⭐ LATEST  
@@ -728,7 +728,7 @@ Apple Neural Engine is a powerful piece of hardware **without a proper SDK**.
 - Xcode Help documentation
 
 ### Academic Research
-- Orion (ArXiv 2603.06728) ⭐
+- Orion (https://arxiv.org/pdf/2603.06728) ⭐
 - Apple Intelligence Foundation LLMs (ArXiv 2407.21075)
 - Native LLM Inference at Scale (ArXiv 2601.19139)
 

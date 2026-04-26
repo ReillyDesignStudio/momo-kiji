@@ -50,7 +50,7 @@ When using momo-kiji:
 
 4. **API keys:** Never hardcode credentials
    - Use environment variables
-   - Use secure vaults (1Password, AWS Secrets Manager, etc.)
+   - Use secure vaults (Apple Keychain, AWS Secrets Manager, etc.)
 
 ## Responsible Disclosure
 

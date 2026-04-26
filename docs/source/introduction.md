@@ -47,7 +47,7 @@ Model (ONNX/PyTorch/TensorFlow)
 
 Three things align:
 
-1. **Research Available** — The Orion paper (ArXiv 2603.06728) revealed detailed ANE internals 2 weeks ago
+1. **Research Available** — The Orion paper (https://arxiv.org/pdf/2603.06728) revealed detailed ANE internals 2 weeks ago
 2. **Community Ready** — Developers are hungry for better ANE tools (high engagement on Reddit, HackerNews)
 3. **Perfect Timing** — M5 just launched, M6 coming soon, ANE story is just beginning
 

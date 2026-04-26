@@ -224,7 +224,7 @@ In 5 years, when developers want to optimize for ANE:
 **MLX:** Array framework optimized for Apple Silicon  
 → https://github.com/ml-explore/mlx
 
-**Orion:** ANE characterization & compiler research (ArXiv 2603.06728)  
+**Orion:** ANE characterization & compiler research (https://arxiv.org/pdf/2603.06728)  
 → Latest academic work on ANE internals
 
 **neural-engine:** Reverse-engineered ANE documentation  
